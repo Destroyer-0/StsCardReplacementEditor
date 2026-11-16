@@ -1,0 +1,16 @@
+{
+    "id": "TomAndJerryCardImage",
+    "name": "猫鼠尖塔",
+    "author": "",
+    "description": "把部分卡牌的卡面替换为《猫和老鼠》风格的图片。",
+    "version": "0.2.0",
+    "has_pck": true,
+    "has_dll": true,
+    "min_game_version": "0.113.0",
+    "dependencies": [
+        {
+            "id": "STS2-RitsuLib"
+        }
+    ],
+    "affects_gameplay": false
+}
