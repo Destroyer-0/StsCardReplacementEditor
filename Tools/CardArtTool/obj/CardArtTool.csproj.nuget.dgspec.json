@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "e:\\STSMods\\TomAndJerryCardImage\\Tools\\CardArtTool\\CardArtTool.csproj": {}
+    "D:\\STS2Mod\\StsCardReplacementEditor\\Tools\\CardArtTool\\CardArtTool.csproj": {}
   },
   "projects": {
-    "e:\\STSMods\\TomAndJerryCardImage\\Tools\\CardArtTool\\CardArtTool.csproj": {
+    "D:\\STS2Mod\\StsCardReplacementEditor\\Tools\\CardArtTool\\CardArtTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\STSMods\\TomAndJerryCardImage\\Tools\\CardArtTool\\CardArtTool.csproj",
+        "projectUniqueName": "D:\\STS2Mod\\StsCardReplacementEditor\\Tools\\CardArtTool\\CardArtTool.csproj",
         "projectName": "CardArtTool",
-        "projectPath": "e:\\STSMods\\TomAndJerryCardImage\\Tools\\CardArtTool\\CardArtTool.csproj",
-        "packagesPath": "C:\\Users\\Epicomic_0\\.nuget\\packages\\",
-        "outputPath": "e:\\STSMods\\TomAndJerryCardImage\\Tools\\CardArtTool\\obj\\",
+        "projectPath": "D:\\STS2Mod\\StsCardReplacementEditor\\Tools\\CardArtTool\\CardArtTool.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\STS2Mod\\StsCardReplacementEditor\\Tools\\CardArtTool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Epicomic_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +47,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.14, )",
+              "version": "[9.0.15, )",
               "autoReferenced": true
             }
           },
@@ -68,31 +65,31 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.15, 9.0.15]"
             },
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.15, 9.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.15, 9.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.15, 9.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.15, 9.0.15]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.15, 9.0.15]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[9.0.14, 9.0.14]"
+              "version": "[9.0.15, 9.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -103,7 +100,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

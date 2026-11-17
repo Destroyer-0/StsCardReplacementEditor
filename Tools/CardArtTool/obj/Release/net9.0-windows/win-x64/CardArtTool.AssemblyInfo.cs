@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CardArtTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5055cb7d505ffdd87a5bd04ea835c84806ccfd92")]
 [assembly: System.Reflection.AssemblyProductAttribute("CardArtTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CardArtTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
